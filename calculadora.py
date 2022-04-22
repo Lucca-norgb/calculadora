@@ -39,17 +39,4 @@ def menu():
     else:
         print("No existe esta operacion")
     return menu
- 
-
 menu()
-
-
-
-
-        
-    
-    
-
-
-
-
